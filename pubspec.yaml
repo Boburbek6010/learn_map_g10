@@ -15,7 +15,7 @@ dependencies:
   flutter_map: ^6.1.0
   latlong2: ^0.9.0
   geolocator: ^11.1.0
-  yandex_mapkit: ^4.0.2
+  yandex_mapkit: ^3.4.0
 
 dev_dependencies:
   flutter_test:
@@ -27,4 +27,7 @@ dev_dependencies:
 flutter:
 
   uses-material-design: true
+
+  assets:
+    - assets/images/
 

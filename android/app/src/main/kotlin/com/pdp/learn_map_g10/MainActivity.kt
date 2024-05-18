@@ -11,7 +11,7 @@ import io.flutter.plugins.GeneratedPluginRegistrant
 
 class MainActivity: FlutterActivity() {
     override fun configureFlutterEngine(@NonNull flutterEngine: FlutterEngine) {
-        MapKitFactory.setApiKey("b9cbdc8e-cd97-4ed5-8047-63a4755da877")
+        MapKitFactory.setApiKey("5d6635a4-578e-47dd-b911-7221fe7c81d2")
         super.configureFlutterEngine(flutterEngine)
     }
 }
